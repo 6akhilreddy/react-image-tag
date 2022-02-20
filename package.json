@@ -1,0 +1,27 @@
+{
+  "name": "react-image-tag",
+  "version": "1.0.1",
+  "description": "React component that allows adding the textual tags on the image easily and support responsive image tagging.",
+  "main": "ImageTag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6akhilreddy/react-image-tag.git"
+  },
+  "keywords": [
+    "react-image-tag",
+    "react-tag",
+    "tag-image",
+    "image-tag",
+    "user-image-tag",
+    "tag"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6akhilreddy/react-image-tag/issues"
+  },
+  "homepage": "https://github.com/6akhilreddy/react-image-tag#readme"
+}

@@ -1,0 +1,21 @@
+.img__tag{
+    background-color: rgba(255,255,255,0.9);
+    padding: 5px 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+.img__tag__btn{
+    border-radius: 50px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 10px;
+}
+.img__image{
+    height: auto;
+    width: 100%;
+}
+.img__tag__input{
+    border-radius: 10px;
+    box-sizing: border-box;
+}
